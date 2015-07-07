@@ -19,8 +19,10 @@ When you want to publish it to the web,
 
 4) You mark up which you want to publish up
 	<git add> or <git add .> for all files
+	
 5) Then you ask to have it committed
 	<git commit -m "something explanatory">
+	
 6) Then you ask that you sync (if you are in GUI) or push if you are in shell
 
 7) Then you finally relax and try to figure out how updates go through

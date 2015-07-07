@@ -25,4 +25,7 @@ When you want to publish it to the web,
 	
 6) Then you ask that you sync (if you are in GUI) or push if you are in shell
 
+7) Things seem to be able to go both ways (just refresh and click reload frequently)
+
+
 7) Then you finally relax and try to figure out how updates go through

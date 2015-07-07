@@ -27,7 +27,6 @@ When you want to publish it to the web,
 
 7) Things seem to be able to go both ways (just refresh and click reload frequently)
 
-
-7) Then you finally relax and try to figure out how updates go through
+8) Then you finally relax and try to figure out how updates go through
 
 9) Be perserverant in getting the work to cross through - trying to see how competition between updates get processed - sync away

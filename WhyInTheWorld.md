@@ -29,3 +29,5 @@ When you want to publish it to the web,
 
 
 7) Then you finally relax and try to figure out how updates go through
+
+9) Be perserverant in getting the work to cross through - trying to see how competition between updates get processed - sync away
